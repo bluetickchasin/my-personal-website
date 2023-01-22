@@ -1,3 +1,10 @@
 body {
-    background: blue;
-}
+    background-image: url("/Users/laurencefairbanks/Desktop/my project images/spear fish.JPG"); 
+    background-repeat: no-repeat;
+  background-size: 100% 280%;
+  backface-visibility: initial;
+      
+} 
+
+h2 {
+    color: white};
