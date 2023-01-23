@@ -1,5 +1,19 @@
 body {
-    background-image: url("project.pics/spear fish.JPG")
+    background-image: url("project.pics/spearfish.JPG");
+    background-size:cover;
 }
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
 p {
-    color: white};
+    color: white;
+    font-size:xx-large;
+    text-decoration:underline;
+    text-decoration-color: brown
+    
+};
+
+
